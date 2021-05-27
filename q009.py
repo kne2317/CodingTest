@@ -19,6 +19,6 @@ while n>=k:
 
     # 마지막으로 남은 수에 대하여 1씩 빼기
     while n>1:
-        n-=1
+        n-=1 
         result+=1
     print(result)
